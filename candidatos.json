@@ -1,0 +1,45 @@
+{
+  "PDisney": [
+    { "nome": "Mickey Mouse", "foto": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Mickey_Mouse.png" },
+    { "nome": "Minnie Mouse", "foto": "https://upload.wikimedia.org/wikipedia/en/b/b2/Minnie_Mouse.png" },
+    { "nome": "Pato Donald", "foto": "https://upload.wikimedia.org/wikipedia/en/a/a5/Donald_Duck.png" },
+    { "nome": "Pateta", "foto": "https://upload.wikimedia.org/wikipedia/en/a/a6/Goofy_Character.png" },
+    { "nome": "Pluto", "foto": "https://upload.wikimedia.org/wikipedia/en/7/7b/Pluto_dog.png" },
+    { "nome": "Tio Patinhas", "foto": "https://upload.wikimedia.org/wikipedia/en/f/f3/Scrooge_McDuck.png" },
+    { "nome": "Margarida", "foto": "https://upload.wikimedia.org/wikipedia/en/f/f6/Daisy_Duck.png" },
+    { "nome": "Zé Carioca", "foto": "https://upload.wikimedia.org/wikipedia/en/6/6f/Jose_Carioca.png" },
+    { "nome": "Mago Merlin", "foto": "https://upload.wikimedia.org/wikipedia/en/3/30/Merlin_Disney.png" },
+    { "nome": "Gastão", "foto": "https://upload.wikimedia.org/wikipedia/en/a/a7/Gladstone_Gander.png" }
+  ],
+
+  "PMarvel": [
+    { "nome": "Homem de Ferro", "foto": "https://i.pinimg.com/736x/f7/de/83/f7de83047763ec3c4fd7903c8f742e66.jpg" },
+    { "nome": "Capitão América", "foto": "https://wallpapers.com/images/featured/imagens-do-capitao-america-blcbyvbnydx5y9wb.jpg" },
+    { "nome": "Thor", "foto": "https://static.wikia.nocookie.net/heroisfanfiction/images/c/c6/Thor.jpeg/revision/latest?cb=20171230201328&path-prefix=pt-br" },
+    { "nome": "Homem-Aranha", "foto": "https://cdn.awsli.com.br/761/761999/produto/350589382/7899061527235-kuzysngv77.jpg" },
+    { "nome": "Hulk", "foto": "https://upload.wikimedia.org/wikipedia/pt/a/aa/Hulk_%28circa_2019%29.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" },
+    { "nome": "Viúva Negra", "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo7ByKkoJ6ndbTAb84foxxLtRZ-Cw2RMLfeuDIevhEwhCnM8sHdyGraNRL&s=10" },
+    { "nome": "Gavião Arqueiro", "foto": "https://i.pinimg.com/236x/04/71/36/047136fe7c404aed5f40b757103622de.jpg" },
+{ "nome": "Pantera Negra", "foto": "https://hqrock.com.br/wp-content/uploads/2018/02/black-panther-standart-image-full.jpg?w=616" },
+    { "nome": "Capitã Marvel", "foto": "https://i.pinimg.com/736x/a4/bf/bc/a4bfbce08e62c0afcbf25f0b4e6dbbfb.jpg" }
+  ],
+  "PDC": [
+    { "nome": "Superman", "foto": "https://upload.wikimedia.org/wikipedia/en/3/35/Superman_S_shield.svg" },
+    { "nome": "Batman", "foto": "https://upload.wikimedia.org/wikipedia/en/1/17/Batman-1939.png" },
+    { "nome": "Mulher-Maravilha", "foto": "https://upload.wikimedia.org/wikipedia/en/9/93/Wonder_Woman.png" },
+    { "nome": "Flash", "foto": "https://upload.wikimedia.org/wikipedia/en/e/ed/Flash_comics.png" },
+    { "nome": "Lanterna Verde", "foto": "https://upload.wikimedia.org/wikipedia/en/8/82/Green_Lantern.png" },
+    { "nome": "Aquaman", "foto": "https://upload.wikimedia.org/wikipedia/en/0/0a/Aquaman_issue_1%2C_2011.png" },
+    { "nome": "Ciborgue", "foto": "https://upload.wikimedia.org/wikipedia/en/1/18/Cyborg_%28comic_book_character%29.png" },
+    { "nome": "Arqueiro Verde", "foto": "https://upload.wikimedia.org/wikipedia/en/3/3d/Green_Arrow_DC_Comics.png" } 
+  ],
+  "PMauricio": [
+    { "nome": "Mônica", "foto": "https://upload.wikimedia.org/wikipedia/pt/f/f8/M%C3%B4nica_Turma_da_M%C3%B4nica.png" },
+    { "nome": "Cebolinha", "foto": "https://upload.wikimedia.org/wikipedia/pt/a/a8/Cebolinha.png" },
+    { "nome": "Cascão", "foto": "https://upload.wikimedia.org/wikipedia/pt/b/b3/Casc%C3%A3o.png" },
+    { "nome": "Magali", "foto": "https://upload.wikimedia.org/wikipedia/pt/c/c5/Magali.png" },
+    { "nome": "Chico Bento", "foto": "https://upload.wikimedia.org/wikipedia/pt/a/a2/Chico_Bento.png" },
+    { "nome": "Franjinha", "foto": "https://upload.wikimedia.org/wikipedia/pt/1/1a/Franjinha.png" },
+    { "nome": "Bidú", "foto": "https://upload.wikimedia.org/wikipedia/pt/9/9f/Bidu.png" }
+  ]
+}
